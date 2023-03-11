@@ -236,6 +236,10 @@ order:1;
   margin-bottom: 60px;
 }
 
+.slide .btn1 {
+	font-size: 18px;
+}
+
 .valider {
   background-color: green;
   color: white;

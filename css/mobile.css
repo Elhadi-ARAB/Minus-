@@ -157,6 +157,10 @@ height:300px;
   display: none;
 }
 
+.btn1 {
+	font-size: 18px;
+}
+
 .textslider {
   font-size: 35px;
   text-align:center;

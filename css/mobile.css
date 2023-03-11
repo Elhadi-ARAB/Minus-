@@ -113,7 +113,8 @@ header nav .margin-left {
 .title1{
   font-size: 30px;
   text-align: center;
-	font-weight:700 ;
+  font-weight:700 ;
+  margin-top : 40px;
 }
 
 .title3 {

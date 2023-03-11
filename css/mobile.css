@@ -135,6 +135,10 @@ header nav .margin-left {
   position: relative;
 }
 
+.slide {
+height:300px;
+}
+
 .blo1 h3::after, .blo2 h3::after, .blo3 h3::after{
   content:url("../icone/down.png");
   display: block;

@@ -104,6 +104,11 @@ header nav .margin-left {
 .section4 .prof {
   margin-top: 8vh;
 }
+
+.section4 p {
+	font-size: 15px;
+    line-height: 25px;
+}
 .title1{
   font-size: 30px;
   text-align: center;

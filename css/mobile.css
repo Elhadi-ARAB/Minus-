@@ -91,8 +91,17 @@ header nav .margin-left {
 	text-align: center;
 }
 .section4{
-  display: block;
-  margin-left:8em;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.profs {
+  margin-left: none;
+}
+
+.section4 .prof {
+  margin-top: 8vh;
 }
 .title1{
   font-size: 30px;

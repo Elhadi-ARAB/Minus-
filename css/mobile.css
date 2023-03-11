@@ -94,6 +94,7 @@ header nav .margin-left {
   display: flex;
   flex-direction: column;
   margin: 0 80px;
+  margin-bottm: 40px;	
 
 }
 
